@@ -12,11 +12,16 @@ public class Name1 {
     public static void main(String[] args) {
         
         Shimmel();
+        Diehl();
         
     }
     
     public static void Shimmel(){
         System.out.println("David Shimmel!");
+    }
+    public stati void Diehl()
+    {
+        System.out.println("Ben Diehl!!!!");
     }
     
 }
